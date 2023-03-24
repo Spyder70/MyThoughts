@@ -13,8 +13,10 @@ The website also features an authentication system using Auth0, which allows use
 -> Installation Instructions
 => To run the My Thoughts project on your local machine, follow these steps:
    1. Clone the repository to your local machine.
-   2. Open the project folder named "Project Code" in your preferred code editor.
-   3. Open the index.html file in your web browser.
+   2. Open the project folder named "MyThoughts" in your preferred code editor.
+   3. Use command 
+      cd Mythoughts
+      npm start
 
 --------------------------------------------------------------------------------------
 --->>> System Design of Mythoughts
@@ -70,14 +72,6 @@ The Mythoughts project uses the following dependencies:
  • EmailJS API
 
 ---------------------------------------------------------------------------------------------
-
->>>> Examples-
-------------> Here are some examples of how the MyThoughts project can be used:
-
- ➤ Sending newsletters to a list of subscribers.
- ➤ Sending event invitations to a list of attendees.
- ➤ Sending product updates to a list of customers.
-
 
 ---------------------------------------------------------------------------------------------
 ⤏ Testing :
